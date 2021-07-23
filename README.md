@@ -1,7 +1,10 @@
 # Pewlett-Hackard-Analysis
-##Project Overview 
+*A Retirement Analysis*
 
-###Purpose
+## Project Overview 
+ 
+### Purpose & Background
+ 
 The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for the upcoming “silver Tsunami”.   A large number of employees are expected to begin retiring at a fast rate.  Pewlett-Hackard wants to be prepared with retirement packages, open positions, and training opportunities for replacement employees.    The types of information the HR Department needs is: 
 1.	Identify the retiring employees by their title
 2.	Determine the sum of retiring employees grouped by title
@@ -11,13 +14,13 @@ The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for
 the next generation grouped by title and department.   
 
 
-###Background:  
-In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized *PstreSQL* a data base system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
+### Background:  
+In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized *PostreSQL* a data base system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
 
-###Data Files – 
+### Data Files – 
 -	6 csv files containing employee details and job position information 
 
-###**ERD and Schema** 
+### ERD and Schema
 The entity-relationship diagram (ERD) is a tool we use to design the database table relationships. The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
 
 <p align="center">
