@@ -38,7 +38,10 @@ RESULTS:
 o	years and their records are showing up twice.   
 
 <p align="center">
-  <img width="400" height="400" src="xxxxxxx.png">
+   <img width="200" height="200" src="xxxxxxx.png">
+</p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
+<p align="center">
+   <img width="200" height="200" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
 
 2.	The list of retiring employees 
@@ -47,7 +50,10 @@ To-date.
 •	The query returns the correct number of records.  The number is _______________.
 
 <p align="center">
-  <img width="400" height="400" src="xxxxxxx.png">
+  <img width="200" height="200" src="xxxxxxx.png">
+</p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
+<p align="center">
+  <img width="200" height="200" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
 
 3.	The number of retiring employees grouped by title  
@@ -56,10 +62,13 @@ To-date.
 •	From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
 
 <p align="center">
-  <img width="400" height="400" src="xxxxxxx.png">
+  <img width="200" height="200" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 4.  Table with employee grouped by title
   
-
+<p align="center">
+  <img width="200" height="200" src="xxxxxxx.png">
+</p>  Insert the report here -  Fig 4.  Table with employee grouped by title
+  
 
 SUMMARY 
 
