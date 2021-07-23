@@ -43,11 +43,15 @@ RESULTS:
 
 <p align="center">
    <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure2arecordcount.png">
-</p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
+</p>  
+ 
+<p align="center">
+<img width="400" height="200" src="xxxxx">
+</p>   
 
 <p align="center">
-   <img width="200" height="200" src="xxxxxxx.png">
-</p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
+Table with “ready to retire” employees data with duplicates
+</p>
 
 2.	The list of retiring employees 
 1. The table includes employee number, first name, last name, title, from-date and to-date. 
