@@ -46,7 +46,7 @@ RESULTS:
 </p>  
  
 <p align="center">
-<img width="400" height="200" src="xxxxx">
+<img width="400" height="200" src="![Figure3rcdcnt](https://user-images.githubusercontent.com/84689107/126849996-7dede34a-d5d0-4f80-92c8-ee11facd2db7.png)">
 </p>   
 
 <p align="center">
