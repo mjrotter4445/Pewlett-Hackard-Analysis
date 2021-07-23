@@ -1,8 +1,6 @@
 # Pewlett-Hackard-Analysis
 *A Retirement Analysis*
-
 ## Project Overview 
- 
 ### Purpose & Background
  
 The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for the upcoming “silver Tsunami”.  
