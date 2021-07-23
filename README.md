@@ -35,11 +35,10 @@ The drawing is called a schema and it is a blueprint for the conceptual design o
 
 RESULTS:  
 1.	The list of retiring employees 
-2.	The list of retiring employees including employee number, first name, last name, title, 2.	From data-to-date
-3.	The query returns 133,776 rows of data.  
-4. The table displays a list of employees who are going to retire in the next few years.  
-5. The list is a start, but we have a few employees who changed positions over the
-    years and their records are showing up twice.   
+    -  The list of retiring employees including employee number, first name, last name, title, 2.	From data-to-date
+    - 	The query returns 133,776 rows of data.  
+    -  The table displays a list of employees who are going to retire in the next few years.  
+    -  The list is a start, but we have a few employees who changed positions over the years and their records are showing up twice.   
 
 <p align="center">
    <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure2arecordcount.png">
@@ -53,9 +52,9 @@ RESULTS:
 Table with “ready to retire” employees data with duplicates
 </p>
 
-2.	The list of retiring employees 
-1. The table includes employee number, first name, last name, title, from-date and to-date. 
-2.	The query returns the correct number of records.  The number is _______________.
+2.	The list of retiring employees without duplicates.   
+      -  The table includes employee number, first name, last name, title, from-date and to-date. 
+      -  The query returns the correct number of records.  The number is _______________.
 
 <p align="center">
   <img width="200" height="200" src="xxxxxxx.png">
