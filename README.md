@@ -18,27 +18,28 @@ the next generation grouped by title and department.
 
 
 ### Background:  
-In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized **PostreSQL** a data base system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
+In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries 
+to answer important business questions for the company’s HR department. We also utilized **PostreSQL** a data base 
+system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
 
 ### Data Files – 
 -	6 csv files containing employee details and job position information 
 
 ### ERD and Schema
-The entity-relationship diagram (ERD) is a tool we use to design the database table relationships. The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
+The entity-relationship diagram (ERD) is a tool we use to design the database table relationships. 
+The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
 
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/EmployeeDB.png">
 </p>
 
 RESULTS:  
-
 1.	The list of retiring employees 
-•	The list of retiring employees including employee number, first name, last name, title, 
-•	From data-to-date
-•	The query returns _____________rows
-•	The table displays a list of employees who is going to retire in the next few years.  
-•	The list is a start, but we have a few employees who changed positions over the
-o	years and their records are showing up twice.   
+2.	The list of retiring employees including employee number, first name, last name, title, 2.	From data-to-date
+3.	The query returns _____________rows
+4. The table displays a list of employees who is going to retire in the next few years.  
+5. The list is a start, but we have a few employees who changed positions over the
+  of	years and their records are showing up twice.   
 
 <p align="center">
    <img width="200" height="100" src="xxxxxxx.png">
@@ -48,9 +49,9 @@ o	years and their records are showing up twice.
 </p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
 
 2.	The list of retiring employees 
-•	The table includes employee number, first name, last name, title, from-date and
+1. The table includes employee number, first name, last name, title, from-date and
 To-date. 
-•	The query returns the correct number of records.  The number is _______________.
+2.	The query returns the correct number of records.  The number is _______________.
 
 <p align="center">
   <img width="200" height="200" src="xxxxxxx.png">
@@ -60,9 +61,9 @@ To-date.
 </p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
 
 3.	The number of retiring employees grouped by title  
-•	This table includes employees’ titles and their sum. 
-•	The query returns a cohesive table with 7 rows.  
-•	From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
+   - This table includes employees’ titles and their sum. 
+   - The query returns a cohesive table with 7 rows.  
+   - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
 
 <p align="center">
   <img width="200" height="200" src="xxxxxxx.png">
