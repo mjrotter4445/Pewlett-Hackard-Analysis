@@ -1,0 +1,10 @@
+SELECT COUNT(film_id)
+FROM film;
+
+SELECT film_id, AVG(length) AS "avg length" FROM film 
+GROUP BY film_id
+ORDER BY "avg length";
+
+SELECT film_id, ROUND(AVG(length),2) AS "avg length" FROM film 
+GROUP BY film_id
+ORDER BY "avg length" DESC;
