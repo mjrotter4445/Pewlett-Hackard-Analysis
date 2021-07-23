@@ -26,3 +26,47 @@ The entity-relationship diagram (ERD) is a tool we use to design the database ta
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/EmployeeDB.png">
 </p>
+
+RESULTS:  
+
+1.	The list of retiring employees 
+•	The list of retiring employees including employee number, first name, last name, title, 
+•	From data-to-date
+•	The query returns _____________rows
+•	The table displays a list of employees who is going to retire in the next few years.  
+•	The list is a start, but we have a few employees who changed positions over the
+o	years and their records are showing up twice.   
+
+<p align="center">
+  <img width="400" height="400" src="xxxxxxx.png">
+</p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
+
+2.	The list of retiring employees 
+•	The table includes employee number, first name, last name, title, from-date and
+To-date. 
+•	The query returns the correct number of records.  The number is _______________.
+
+<p align="center">
+  <img width="400" height="400" src="xxxxxxx.png">
+</p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
+
+3.	The number of retiring employees grouped by title  
+•	This table includes employees’ titles and their sum. 
+•	The query returns a cohesive table with 7 rows.  
+•	From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
+
+<p align="center">
+  <img width="400" height="400" src="xxxxxxx.png">
+</p>  Insert the report here -  Fig 4.  Table with employee grouped by title
+  
+
+
+SUMMARY 
+
+Insert 2 more queries that might help along these lines -  
+
+How many roles will need to be filled as the silver tsunami begins to make an impact? 
+
+Are there enough qualified, retirement ready employees in the departments to mento the next generation of Pewlett Hackard employees?  
+
+
