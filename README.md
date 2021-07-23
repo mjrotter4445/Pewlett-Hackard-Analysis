@@ -46,7 +46,7 @@ RESULTS:
 </p>  
  
 <p align="center">
-   <img width="400" height="200" src="xxxxg">
+   <img width="400" height="200" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure2.png">
 </p>   
 
 <p align="center">
