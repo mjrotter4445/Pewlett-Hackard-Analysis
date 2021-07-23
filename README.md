@@ -30,16 +30,16 @@ The entity-relationship diagram (ERD) is a tool we use to design the database ta
 The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
 
 <p align="center">
-  <img width="400" height="400" src="xxx">
+  <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/EmployeeDB.png">
 </p>
 
 RESULTS:  
 1.	The list of retiring employees 
 2.	The list of retiring employees including employee number, first name, last name, title, 2.	From data-to-date
-3.	The query returns _____________rows
-4. The table displays a list of employees who is going to retire in the next few years.  
+3.	The query returns 133,776 rows of data.  
+4. The table displays a list of employees who are going to retire in the next few years.  
 5. The list is a start, but we have a few employees who changed positions over the
-  of	years and their records are showing up twice.   
+    years and their records are showing up twice.   
 
 <p align="center">
    <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure2arecordcount.png">
