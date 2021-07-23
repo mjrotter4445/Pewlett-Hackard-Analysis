@@ -62,9 +62,9 @@ RESULTS:
 </p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
 
 3.	The number of retiring employees grouped by title  
-   - This table includes employees’ titles and their sum. 
-   - The query returns a cohesive table with 7 rows.  
-   - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
+       - This table includes employees’ titles and their sum. 
+       - The query returns a cohesive table with 7 rows.  
+       - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
 
 <p align="center">
   <img width="200" height="200" src="xxxxxxx.png">
