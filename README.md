@@ -38,7 +38,7 @@ RESULTS:
 o	years and their records are showing up twice.   
 
 <p align="center">
-   <img width="200" height="200" src="xxxxxxx.png">
+   <img width="200" height="100" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
 <p align="center">
    <img width="200" height="200" src="xxxxxxx.png">
