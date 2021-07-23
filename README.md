@@ -44,18 +44,19 @@ RESULTS:
 <p align="center">
    <img width="200" height="100" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
+
 <p align="center">
    <img width="200" height="200" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 2.  Table with “ready to retire” employees data
 
 2.	The list of retiring employees 
-1. The table includes employee number, first name, last name, title, from-date and
-To-date. 
+1. The table includes employee number, first name, last name, title, from-date and to-date. 
 2.	The query returns the correct number of records.  The number is _______________.
 
 <p align="center">
   <img width="200" height="200" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
+
 <p align="center">
   <img width="200" height="200" src="xxxxxxx.png">
 </p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
