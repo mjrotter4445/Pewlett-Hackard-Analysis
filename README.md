@@ -5,12 +5,15 @@
  
 ### Purpose & Background
  
-The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for the upcoming “silver Tsunami”.   A large number of employees are expected to begin retiring at a fast rate.  Pewlett-Hackard wants to be prepared with retirement packages, open positions, and training opportunities for replacement employees.    The types of information the HR Department needs is: 
-1.	Identify the retiring employees by their title
-2.	Determine the sum of retiring employees grouped by title
-3.	Identify the employees eligible for participation in the mentorship program
-4.	Determine the number of roles-to-fill grouped by title and department
-5.	Determine the number of qualified, retirement-ready employees to mentor 
+The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for the upcoming “silver Tsunami”.  
+A large number of employees are expected to begin retiring at a fast rate.  Pewlett-Hackard wants to be prepared 
+with retirement packages, open positions, and training opportunities for replacement employees.    
+The types of information the HR Department needs is: 
+1.	 Identify the retiring employees by their title
+2.  Determine the sum of retiring employees grouped by title
+3.	 Identify the employees eligible for participation in the mentorship program
+4.	 Determine the number of roles-to-fill grouped by title and department
+5.	 Determine the number of qualified, retirement-ready employees to mentor 
 the next generation grouped by title and department.   
 
 
