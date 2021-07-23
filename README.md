@@ -15,7 +15,7 @@ the next generation grouped by title and department.
 
 
 ### Background:  
-In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized *PostreSQL* a data base system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
+In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries to answer important business questions for the company’s HR department. We also utilized **PostreSQL** a data base system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
 
 ### Data Files – 
 -	6 csv files containing employee details and job position information 
