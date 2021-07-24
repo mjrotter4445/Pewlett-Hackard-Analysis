@@ -28,7 +28,7 @@ database with reporting capabilities.
 </p>
 
 RESULTS:  
-1.	The list of retiring employees 
+1.	**The list of retiring employees** 
     -  The list of retiring employees including employee number, first name, last name, title for employees born in 1952.  
     - 	The query returns 133,776 rows of data.  
     -  The table displays a list of employees who are going to retire in the next few years.  
@@ -45,7 +45,7 @@ RESULTS:
 Table with “ready to retire” employees data with duplicates
 </p>
 
-2.	The list of retiring employees without duplicates.   
+2.	The **list of retiring employees without duplicates**   
       -  The table includes employee number, first name, last name, title, from-date and to-date. 
       -  The query returns the correct number of records.  The number is 90,398.
       -  This data is more useful because this lists the latest titles that the potential retiree held.   
@@ -70,11 +70,11 @@ is the number of **retirees grouped by title**.  This table is very insightful.
   <img width="300" height="300" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
 </p>  
 <p align="center">
-Table with counts of retirees grouped by title
+Table with counts of retirees grouped by title - 90,398 positions TOTAL
 </p>
          
 4.	Next, we need to plan.  We need to know who might be eligible for a mentorship program.  
-    -  Using a query, we gather 1549 records of employees who are eligible for a mentorship program based on their birthdates in the year 1965. 
+    -  Using a query, we gather 1549 records of employees who are **eligible for a mentorship program** based on their birthdates in the year 1965. 
     -  This table displays the list of employees who are eligble for a mentorship program to better plan for the Silver Tsunami and lessen
     the negative impacts to the organization.    
 <p align="center">
@@ -83,7 +83,15 @@ Table with counts of retirees grouped by title
 <p align="center">
 Table with employees listed who could be part of the mentorship program
 </p>
-          
+
+### SUMMARY 
+Overall, the analysis required was multi-part.  Initial information suggests that the impacts, in terms of numbers of roles/positions to 
+be filled as a result of the silver tsunami population of workers begins to retire are large. The count employees expected to retire 
+total 90,398.   Planning for the future is needed. 
+
+As we continue to plan, we can think about the future and also grow new talent within the organization.   Mentoring programs for the next 
+generation of Pewlett Hackard employees would benefit everyone.    
+
 AN ADDITIIONAL QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
 The table below is a query based on the number of positions that will be vacated by the retirees. Some departments
 are impacted more than others.  The below list shows this by the 38 departments.    Development and Production Departments
@@ -107,12 +115,5 @@ This list includes:
 Table with numbers of Senior level employees by department and title 
 so we can see the make-up of each department for our future plans 
 </p>
-SUMMARY 
-
-
-
-How many roles will need to be filled as the silver tsunami begins to make an impact? 
-
-Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  
 
 
