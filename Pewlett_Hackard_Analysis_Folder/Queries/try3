@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------
+--DELIVERABLE #3
+---------------------------------------------------------------------------------------
+SELECT DISTINCT ON (rt.emp_no)
+rt.emp_no,
+rt.first_name,
+rt.last_name,
+rt.title,
+de.dept_no,
+d.dept_name
+
+--INTO unique_titles_bydept
+FROM retirement_titles as rt	
+INNER JOIN dept_emp as de
+ON (rt.emp_no = de.emp_no)
+INNER JOIN departments as d 
+ON (de.dept_no = d.dept_no)
+WHERE (title LIKE 'Senior%') OR (title LIKE '%Leader') 
+ORDER BY rt.emp_no, rt.to_date DESC;
+ 	
+	
