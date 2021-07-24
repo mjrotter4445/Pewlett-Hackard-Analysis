@@ -72,4 +72,39 @@ ON (e.emp_no = ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date  = '9999-01-01')  
 ORDER BY e.emp_no, to_date DESC;  
 
+---------------------------------------------------------------------------------------
+--DELIVERABLE #3
+---------------------------------------------------------------------------------------
+SELECT DISTINCT ON (rt.emp_no)
+rt.emp_no,
+rt.first_name,
+rt.last_name,
+rt.title,
+de.dept_no,
+d.dept_name
+--INTO unique_titles_bydept to hold as step 1
+INTO unique_tit_bydept
+FROM retirement_titles as rt	
+INNER JOIN dept_emp as de
+ON (rt.emp_no = de.emp_no)
+INNER JOIN departments as d 
+ON (d.dept_no = de.dept_no)
+ORDER BY rt.emp_no, rt.to_date DESC;
 
+-- number of roles that need to be filled by title and department?
+SELECT ut.dept_name, ut.title, COUNT(ut.title) 
+INTO positions_to_fill
+FROM (SELECT title, dept_name from unique_tit_bydept) as ut
+GROUP BY ut.dept_name, ut.title
+ORDER BY ut.dept_name DESC;
+
+-- Available and qualified staff, retirement-ready to mentor next generation.
+SELECT ut.dept_name, ut.title, COUNT(ut.title) 
+INTO available_staff
+FROM (SELECT title, dept_name from unique_tit_bydept) as ut
+WHERE ut.title IN ('Manager', 'Senior Staff', 'Technique Leader', 'Manager','Senior Engineer')
+GROUP BY ut.dept_name, ut.title
+ORDER BY ut.dept_name DESC;
+
+
+--WHERE (title LIKE 'Senior%') OR (title LIKE '%Leader') 
