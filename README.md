@@ -100,20 +100,20 @@ are most impacted.
   <img width="400" height="500" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/table3b_by38dpt.png">
 </p>  
 <p align="center">
-Table with how many positions need to be filled by 38 departments for planning
+Table with how many positions need to be filled by 38 departments for planning.
 
 ANOTHER QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM could be this information. We need to answer one question. 
 Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 This table is a great place to start to find mentorees for the program.     
 This list includes: 
-   -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer
+   -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer.
    -  Summarized by department then title with a count. 
+   -  The table below allows us to see the situation by department for our future planning.
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3c.png">
 </p>  
 <p align="center">
-Table with numbers of Senior level employees by department and title 
-so we can see the make-up of each department for our future plans 
+Table with numbers of Senior level employees by department and title
 </p>
 
 
