@@ -19,7 +19,8 @@ the next generation grouped by title and department.
 ### Background:  
 In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries 
 to answer important business questions for the company’s HR department. We also utilized **PostreSQL** a data base 
-system to load, build, and host company data and **pgAdmin** The result is a well-designed database with reporting capabilities.   
+system to load, build, and host company data and **pgAdmin** and the result is a well-designed 
+database with reporting capabilities.   
 
 ### Data Files – 
 -	6 csv files containing employee details and job position information 
@@ -54,9 +55,7 @@ Table with “ready to retire” employees data with duplicates
       -  The table includes employee number, first name, last name, title, from-date and to-date. 
       -  The query returns the correct number of records.  The number is 90,398.
       -  This data is more useful because this lists the latest titles that the potential retiree held.   
-      -  From this new narrowed, revised information we can now rewrite the table and data file with 
-      these records will become our new retirement_titles table and csv
-
+      -  From this new narrowed down list and revised information we can further analyze and plan.  
 <p align="center">
   <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure3rcdcnt.png">
 </p>     
@@ -66,12 +65,27 @@ Table with “ready to retire” employees data with duplicates
 <p align="center">
 Table with “ready to retire” employees data withOUT duplicates
 </p>
-          
-3.	The number of retiring employees grouped by title  
-       - This table includes employees’ titles and their sum. 
-       - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
+
+3.	Another way to look at the information to better undertand the impacts the retiring employees may have on the organization 
+is the number of **retirees grouped by title**.  This table is very insightful.     
+    -  This table includes employees’ titles and their sum. 
+    -  From this table we can quickly see how many employees with current title we might expect to retire in the next few years. 
+ 
+</p>     
 <p align="center">
   <img width="300" height="300" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
+</p>  
+<p align="center">
+Table with counts of retirees grouped by title
+</p>
+
+
+
+
+          
+4.	
+<p align="center">
+  <img width="300" height="300" src="xxxx">
 </p>  
 <p align="center">
 Table with retiring employees grouped by title  
