@@ -24,8 +24,8 @@ system to load, build, and host company data and **pgAdmin** The result is a wel
 -	6 csv files containing employee details and job position information 
 
 ### ERD and Schema
-The entity-relationship diagram (ERD) is a tool we use to design the database table relationships. 
-The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
+-  The entity-relationship diagram (ERD) is a tool we use to design the database table relationships.
+-  The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
 
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/EmployeeDB.png">
@@ -54,7 +54,7 @@ Table with “ready to retire” employees data with duplicates
       -  The query returns the correct number of records.  The number is 90,398.
       -  This data is more useful because this lists the latest titles that the potential retiree held.   
       -  From this new narrowed, revised information we can now rewrite the table and data file with 
-      these records will become our retirement_titles table and csv
+      these records will become our new retirement_titles table and csv
 
 <p align="center">
   <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure3rcdcnt.png">
