@@ -88,7 +88,7 @@ Insert 2 more queries that might help along these lines -
   <img width="200" height="100" src="xx">
 </p>  
 <p align="center">
-Table with retiring employees grouped by title  
+Table with numbers of employees by department and title so we can see the make-up of each department  
 </p>
 SUMMARY 
 
