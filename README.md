@@ -84,7 +84,7 @@ Table with counts of retirees grouped by title
     -  This table displays the list of employees who are eligble for a mentorship program to better plan for the Silver Tsunami and lessen
     the negative impacts to the organization.    
 <p align="center">
-  <img width="300" height="300" src="xxxx">
+  <img width="400" height="200" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/mentoreligtable.png">
 </p>  
 <p align="center">
 Table with employees listed who could be part of the mentorship program
