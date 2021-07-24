@@ -96,9 +96,10 @@ Table with how many positions need to be filled by 38 departments for planning
 
 ANOTHER QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM could be this information. We need to answer one question. 
 Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
-This table is a great place to start to find mentorees for the program.     This list includes: 
-    -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer
-    -  Summarized by title with a count. 
+This table is a great place to start to find mentorees for the program.     
+This list includes: 
+   -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer
+   -  Summarized by department then title with a count. 
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3c.png">
 </p>  
