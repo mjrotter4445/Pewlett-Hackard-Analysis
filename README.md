@@ -2,7 +2,6 @@
 *A Retirement Analysis*
 ## Project Overview 
 ### Purpose & Background
- 
 The purpose of this analysis is to prepare Pewlett-Hackard, a large company, 
 for the upcoming “Silver Tsunami”.  A large number of employees are expected to begin retiring 
 at a fast rate.  Pewlett-Hackard wants to be prepared with retirement packages, open positions,
@@ -14,21 +13,16 @@ The types of information the HR Department needs is:
 4.	 Determine the number of roles-to-fill grouped by title and department
 5.	 Determine the number of qualified, retirement-ready employees to mentor 
 the next generation grouped by title and department.   
-
-
 ### Background:  
 In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries 
 to answer important business questions for the company’s HR department. We also utilized **PostreSQL** a data base 
 system to load, build, and host company data and **pgAdmin** and the result is a well-designed 
 database with reporting capabilities.   
-
 ### Data Files – 
 -	6 csv files containing employee details and job position information 
-
 ### ERD and Schema
 -  The entity-relationship diagram (ERD) is a tool we use to design the database table relationships.
 -  The drawing is called a schema and it is a blueprint for the conceptual design of the database.    
-
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/EmployeeDB.png">
 </p>
@@ -90,13 +84,15 @@ Table with counts of retirees grouped by title
 Table with employees listed who could be part of the mentorship program
 </p>
           
-Insert 2 more queries that might help along these lines -  
+ADDITIONAL QUERIES THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
+The table below is a query based on the number of positions that will be vacated by the retirees. Some departments
+are impacted more than others.  The below list shows this by the 38 departments.    Development and Production Departments
+are most impacted.   
 <p align="center">
   <img width="400" height="500" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/table3b_by38dpt.png">
 </p>  
 <p align="center">
-Table with how many positions need to be filled by 38 departments so we can have a list to start planning from   
-</p>
+Table with how many positions need to be filled by 38 departments for planning
 
 Insert 2 more queries that might help along these lines -  
 <p align="center">
