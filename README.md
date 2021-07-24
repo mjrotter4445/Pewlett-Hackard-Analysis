@@ -76,7 +76,7 @@ Table with retiring employees grouped by title
           
 Insert 2 more queries that might help along these lines -  
 <p align="center">
-  <img width="400" height="300" src="xx">
+  <img width="400" height="300" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/table3b_by38dpt.png">
 </p>  
 <p align="center">
 Table with how many positions need to be filled by 38 departments so we can have a list to start planning from   
