@@ -33,15 +33,14 @@ The drawing is called a schema and it is a blueprint for the conceptual design o
 
 RESULTS:  
 1.	The list of retiring employees 
-    -  The list of retiring employees including employee number, first name, last name, title, 2.	From data-to-date
+    -  The list of retiring employees including employee number, first name, last name, title for employees born in 1952.  
     - 	The query returns 133,776 rows of data.  
     -  The table displays a list of employees who are going to retire in the next few years.  
     -  The list is a start, but we have a few employees who changed positions over the years and their records are showing up twice.   
-
+    -  These records will become our retirement_titles table and csv.  
 <p align="center">
    <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure2arecordcount.png">
 </p>  
- 
 <p align="center">
    <img width="400" height="200" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure2.png">
 </p>   
@@ -53,6 +52,9 @@ Table with “ready to retire” employees data with duplicates
 2.	The list of retiring employees without duplicates.   
       -  The table includes employee number, first name, last name, title, from-date and to-date. 
       -  The query returns the correct number of records.  The number is 90,398.
+      -  This data is more useful because this lists the latest titles that the potential retiree held.   
+      -  From this new narrowed, revised information we can now rewrite the table and data file with 
+      these records will become our retirement_titles table and csv
 
 <p align="center">
   <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure3rcdcnt.png">
