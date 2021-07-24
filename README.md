@@ -52,28 +52,29 @@ Table with “ready to retire” employees data with duplicates
 
 2.	The list of retiring employees without duplicates.   
       -  The table includes employee number, first name, last name, title, from-date and to-date. 
-      -  The query returns the correct number of records.  The number is _______________.
+      -  The query returns the correct number of records.  The number is 90,398.
 
 <p align="center">
-  <img width="200" height="200" src="xxxxxxx.png">
-</p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
-
+  <img width="400" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure3rcdcnt.png">
+</p>     
 <p align="center">
-  <img width="200" height="200" src="xxxxxxx.png">
-</p>  Insert the report here -  Fig 3.  Table with employees data for those retirement-ready without duplicates
-
+  <img width="400" height="200" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure3list.png">
+</p>  
+<p align="center">
+Table with “ready to retire” employees data withOUT duplicates
+</p>
+          
 3.	The number of retiring employees grouped by title  
        - This table includes employees’ titles and their sum. 
        - The query returns a cohesive table with 7 rows.  
        - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
-
 <p align="center">
-  <img width="200" height="200" src="xxxxxxx.png">
-</p>  Insert the report here -  Fig 4.  Table with employee grouped by title
-  
+  <img width="200" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
+</p>  
 <p align="center">
-  <img width="200" height="200" src="xxxxxxx.png">
-</p>  Insert the report here -  Fig 4.  Table with employee grouped by title
+Table with retiring employees grouped by title  
+</p>
+          
   
 
 SUMMARY 
