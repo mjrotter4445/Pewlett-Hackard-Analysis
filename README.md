@@ -77,7 +77,7 @@ Table with retiring employees grouped by title
           
 Insert 2 more queries that might help along these lines -  
 <p align="center">
-  <img width="200" height="100" src="xx">
+  <img width="400" height="300" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3a.png">
 </p>  
 <p align="center">
 Table with how many positions need to be filled by title and department so we can have a list to start planning from   
@@ -85,7 +85,7 @@ Table with how many positions need to be filled by title and department so we ca
 
 Insert 2 more queries that might help along these lines -  
 <p align="center">
-  <img width="200" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3c.png">
+  <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3c.png">
 </p>  
 <p align="center">
 Table with numbers of employees by department and title so we can see the make-up of each department for our future plans 
