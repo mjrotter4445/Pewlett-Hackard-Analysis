@@ -116,4 +116,5 @@ This list includes:
 Table with numbers of Senior level employees by department and title
 </p>
 
-
+With a little planning, Packard-Hewlett can really grow and move into the future with a great Management Succession Plan to benefit many
+within the organization and have a positive impact on the bottom-line.   
