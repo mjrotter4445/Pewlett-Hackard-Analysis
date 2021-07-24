@@ -6,12 +6,12 @@ The purpose of this analysis is to prepare Pewlett-Hackard, a large company,
 for the upcoming “Silver Tsunami”.  A large number of employees are expected to begin retiring 
 at a fast rate.  Pewlett-Hackard wants to be prepared with retirement packages, open positions,
 and training opportunities for replacement employees.    
-The types of information the HR Department needs is: 
-1.	 Identify the retiring employees by their title
-2.   Determine the sum of retiring employees grouped by title
-3.	 Identify the employees eligible for participation in the mentorship program
-4.	 Determine the number of roles-to-fill grouped by title and department
-5.	 Determine the number of qualified, retirement-ready employees to mentor 
+The types of information the HR Department and Management needs is: 
+1.	 Identify the retiring employees by their title.
+2.   Determine the sum of retiring employees grouped by title.
+3.	 Identify the employees eligible for participation in the mentorship program.
+4.	 Determine the number of roles-to-fill grouped by title and department.
+5.	 Determine the number of qualified, retirement-ready employees to mentor. 
 the next generation grouped by title and department.   
 ### Background:  
 In this project, we use **QuickDBD** and Schemas to design databases and writing intermediate-level SQL queries 
@@ -93,7 +93,7 @@ As we continue to plan, we can think about the future and also grow new talent w
 programs for the next generation of Pewlett Hackard employees would benefit everyone.    
 
 AN ADDITIIONAL QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
-The table below is a query based on the number of positions that will be vacated by the retirees. Some departments
+The table below is a query based on the **number of positions that will be vacated by the retirees**. Some departments
 are impacted more than others.  The below list shows this by the 38 departments.    Development and Production Departments
 are most impacted.   
 <p align="center">
@@ -102,9 +102,9 @@ are most impacted.
 <p align="center">
 Table with how many positions need to be filled by 38 departments for planning.
 
-ANOTHER QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM could be this information. As we work to understand 
-if there are enough qualified, retirement ready employees in the departments to mentor the next generation 
-of Pewlett Hackard employees? This table is a great place to start to find mentorees for the program.     
+Another query that could help us understand mentorship program opportunities could be this information below. 
+As we work with each department head to understand if there are enough **qualified retirement ready employees in the departments** 
+to mentor the next generation of Pewlett Hackard employees.  This table is a great place to start to find mentorees for the program.     
 This list includes: 
    -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer.
    -  Summarized by department then title with a count. 
