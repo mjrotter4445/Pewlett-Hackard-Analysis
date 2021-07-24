@@ -84,7 +84,7 @@ Table with counts of retirees grouped by title
 Table with employees listed who could be part of the mentorship program
 </p>
           
-ADDITIONAL QUERIES THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
+AN ADDITIIONAL QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
 The table below is a query based on the number of positions that will be vacated by the retirees. Some departments
 are impacted more than others.  The below list shows this by the 38 departments.    Development and Production Departments
 are most impacted.   
@@ -94,7 +94,11 @@ are most impacted.
 <p align="center">
 Table with how many positions need to be filled by 38 departments for planning
 
-Insert 2 more queries that might help along these lines -  
+ANOTHER QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM could be this information. We need to answer one question. 
+Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+This table is a great place to start to find mentorees for the program.     This list includes: 
+    -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer
+    -  Summarized by title with a count. 
 <p align="center">
   <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3c.png">
 </p>  
@@ -108,6 +112,6 @@ SUMMARY
 
 How many roles will need to be filled as the silver tsunami begins to make an impact? 
 
-Are there enough qualified, retirement ready employees in the departments to mento the next generation of Pewlett Hackard employees?  
+Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  
 
 
