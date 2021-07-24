@@ -78,17 +78,16 @@ is the number of **retirees grouped by title**.  This table is very insightful.
 <p align="center">
 Table with counts of retirees grouped by title
 </p>
-
-
-
-
-          
-4.	
+         
+4.	Next, we need to plan.  We need to know who might be eligible for a mentorship program.  
+    -  Using a query, we gather 1549 records of employees who are eligible for a mentorship program based on their birthdates in the year 1965. 
+    -  This table displays the list of employees who are eligble for a mentorship program to better plan for the Silver Tsunami and lessen
+    the negative impacts to the organization.    
 <p align="center">
   <img width="300" height="300" src="xxxx">
 </p>  
 <p align="center">
-Table with retiring employees grouped by title  
+Table with employees listed who could be part of the mentorship program
 </p>
           
 Insert 2 more queries that might help along these lines -  
