@@ -3,7 +3,7 @@
 ## Project Overview 
 ### Purpose & Background
  
-The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for the upcoming “silver Tsunami”.  
+The purpose of this analysis is to prepare Pewlett-Hackard, a large company, for the upcoming “Silver Tsunami”.  
 A large number of employees are expected to begin retiring at a fast rate.  Pewlett-Hackard wants to be prepared 
 with retirement packages, open positions, and training opportunities for replacement employees.    
 The types of information the HR Department needs is: 
@@ -66,10 +66,9 @@ Table with “ready to retire” employees data withOUT duplicates
           
 3.	The number of retiring employees grouped by title  
        - This table includes employees’ titles and their sum. 
-       - The query returns a cohesive table with 7 rows.  
        - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
 <p align="center">
-  <img width="200" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
+  <img width="300" height="300" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
 </p>  
 <p align="center">
 Table with retiring employees grouped by title  
@@ -77,18 +76,19 @@ Table with retiring employees grouped by title
           
 Insert 2 more queries that might help along these lines -  
 <p align="center">
-  <img width="200" height="100" src="xx">
+  <img width="400" height="500" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/table3b_by38dpt.png">
 </p>  
 <p align="center">
-Table with retiring employees grouped by title  
+Table with how many positions need to be filled by 38 departments so we can have a list to start planning from   
 </p>
 
 Insert 2 more queries that might help along these lines -  
 <p align="center">
-  <img width="200" height="100" src="xx">
+  <img width="400" height="400" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/tabledel3c.png">
 </p>  
 <p align="center">
-Table with numbers of employees by department and title so we can see the make-up of each department  
+Table with numbers of Senior level employees by department and title 
+so we can see the make-up of each department for our future plans 
 </p>
 SUMMARY 
 
