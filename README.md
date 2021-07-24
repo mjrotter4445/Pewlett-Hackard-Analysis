@@ -75,11 +75,24 @@ Table with “ready to retire” employees data withOUT duplicates
 Table with retiring employees grouped by title  
 </p>
           
-  
-
-SUMMARY 
+Insert 2 more queries that might help along these lines -  
+<p align="center">
+  <img width="200" height="100" src="xx">
+</p>  
+<p align="center">
+Table with retiring employees grouped by title  
+</p>
 
 Insert 2 more queries that might help along these lines -  
+<p align="center">
+  <img width="200" height="100" src="xx">
+</p>  
+<p align="center">
+Table with retiring employees grouped by title  
+</p>
+SUMMARY 
+
+
 
 How many roles will need to be filled as the silver tsunami begins to make an impact? 
 
