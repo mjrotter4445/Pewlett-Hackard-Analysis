@@ -8,7 +8,7 @@ at a fast rate.  Pewlett-Hackard wants to be prepared with retirement packages, 
 and training opportunities for replacement employees.    
 The types of information the HR Department needs is: 
 1.	 Identify the retiring employees by their title
-2.  Determine the sum of retiring employees grouped by title
+2.   Determine the sum of retiring employees grouped by title
 3.	 Identify the employees eligible for participation in the mentorship program
 4.	 Determine the number of roles-to-fill grouped by title and department
 5.	 Determine the number of qualified, retirement-ready employees to mentor 
@@ -60,7 +60,7 @@ Table with “ready to retire” employees data with duplicates
 Table with “ready to retire” employees data withOUT duplicates
 </p>
 
-3.	Another way to look at the information to better undertand the impacts the retiring employees may have on the organization 
+3.	Another way to look at the information to better understand the impacts the retiring employees may have on the organization 
 is the number of **retirees grouped by title**.  This table is very insightful.     
     -  This table includes employees’ titles and their sum. 
     -  From this table we can quickly see how many employees with current title we might expect to retire in the next few years. 
@@ -76,7 +76,7 @@ Table with counts of retirees grouped by title - 90,398 positions TOTAL
 4.	Next, we need to plan.  We need to know who might be eligible for a mentorship program.  
     -  Using a query, we gather 1549 records of employees who are **eligible for a mentorship program** based on their birthdates in the year 1965. 
     -  This table displays the list of employees who are eligble for a mentorship program to better plan for the Silver Tsunami and lessen
-    the negative impacts to the organization.    
+    the negative impacts to the organization. Opportunities can be made with some planning.      
 <p align="center">
   <img width="400" height="200" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/mentoreligtable.png">
 </p>  
@@ -85,12 +85,12 @@ Table with employees listed who could be part of the mentorship program
 </p>
 
 ### SUMMARY 
-Overall, the analysis required was multi-part.  Initial information suggests that the impacts, in terms of numbers of roles/positions to 
-be filled as a result of the silver tsunami population of workers begins to retire are large. The count employees expected to retire 
-total 90,398.   Planning for the future is needed. 
+Overall, the analysis required was multi-part.  Initial information suggests that the impacts, in terms of numbers 
+of roles/positions to be filled as a result of the silver tsunami, are very impactful. The count of employees expected 
+to retire totals 90,398 at Pewlett Hackard.   Planning for the future is needed. 
 
-As we continue to plan, we can think about the future and also grow new talent within the organization.   Mentoring programs for the next 
-generation of Pewlett Hackard employees would benefit everyone.    
+As we continue to plan, we can think about the future and also grow new talent within the organization.   Mentoring 
+programs for the next generation of Pewlett Hackard employees would benefit everyone.    
 
 AN ADDITIIONAL QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
 The table below is a query based on the number of positions that will be vacated by the retirees. Some departments
@@ -102,9 +102,9 @@ are most impacted.
 <p align="center">
 Table with how many positions need to be filled by 38 departments for planning.
 
-ANOTHER QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM could be this information. We need to answer one question. 
-Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
-This table is a great place to start to find mentorees for the program.     
+ANOTHER QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM could be this information. As we work to understand 
+if there are enough qualified, retirement ready employees in the departments to mentor the next generation 
+of Pewlett Hackard employees? This table is a great place to start to find mentorees for the program.     
 This list includes: 
    -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer.
    -  Summarized by department then title with a count. 
