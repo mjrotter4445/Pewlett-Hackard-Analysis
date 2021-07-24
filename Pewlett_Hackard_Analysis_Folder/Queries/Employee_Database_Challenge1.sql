@@ -18,7 +18,7 @@ ON (e.emp_no = ti.emp_no)
 	WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 
 ORDER BY e.emp_no;
-
+ 
 --#****************************************from the mod 7 starter code 
 --#--number of retiring employees by title MAKE UNIQUE TITLES- no dupes
 --#- Use Dictinct with Orderby to remove duplicate rows
@@ -43,7 +43,7 @@ ORDER BY rt.emp_no, rt.to_date DESC;
 
 --*****************************************************
 --number of employees by their most recent job title who are about to retire  - MAKE RETIRING TITLES 
---use unique_titles to create
+--use unique_titles to create summary pivot table of # of positions per title
 --retiring_titles
 SELECT COUNT(ut.title), ut.title
 INTO retiring_titles
@@ -71,6 +71,9 @@ INNER JOIN titles as ti
 ON (e.emp_no = ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date  = '9999-01-01')  
 ORDER BY e.emp_no, to_date DESC;  
+
+
+
 
 ---------------------------------------------------------------------------------------
 --DELIVERABLE #3
@@ -102,9 +105,9 @@ ORDER BY ut.dept_name DESC;
 SELECT ut.dept_name, ut.title, COUNT(ut.title) 
 INTO available_staff
 FROM (SELECT title, dept_name from unique_tit_bydept) as ut
-WHERE ut.title IN ('Manager', 'Senior Staff', 'Technique Leader', 'Manager','Senior Engineer')
+WHERE ut.title IN ('Manager', 'Senior Staff', 'Technique Leader','Senior Engineer')
 GROUP BY ut.dept_name, ut.title
 ORDER BY ut.dept_name DESC;
 
 
---WHERE (title LIKE 'Senior%') OR (title LIKE '%Leader') 
+--xtra idea  WHERE (title LIKE 'Senior%') OR (title LIKE '%Leader') 
