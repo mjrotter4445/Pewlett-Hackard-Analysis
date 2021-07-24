@@ -66,10 +66,9 @@ Table with “ready to retire” employees data withOUT duplicates
           
 3.	The number of retiring employees grouped by title  
        - This table includes employees’ titles and their sum. 
-       - The query returns a cohesive table with 7 rows.  
        - From this table we can quickly see how many employees with current title we might expect to  retire in the next few years.   
 <p align="center">
-  <img width="200" height="100" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
+  <img width="300" height="300" src="https://github.com/mjrotter4445/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis_Folder/Graphics/Figure4tablefin.png">
 </p>  
 <p align="center">
 Table with retiring employees grouped by title  
