@@ -87,10 +87,10 @@ Table with employees listed who could be part of the mentorship program
 ### SUMMARY 
 Overall, the analysis required was multi-part.  Initial information suggests that the impacts, in terms of numbers 
 of roles/positions to be filled as a result of the silver tsunami, are very impactful. The count of employees expected 
-to retire totals 90,398 at Pewlett Hackard.   Planning for the future is needed. 
+to retire totals 90,398 at Pewlett-Hackard.   Planning for the future is needed. 
 
 As we continue to plan, we can think about the future and also grow new talent within the organization.   Mentoring 
-programs for the next generation of Pewlett Hackard employees would benefit everyone.    
+programs for the next generation of Pewlett-Hackard employees would benefit everyone.    
 
 AN ADDITIIONAL QUERY THAT WILL HELP US PLAN THE MENTORSHIP PROGRAM - 
 The table below is a query based on the **number of positions that will be vacated by the retirees**. Some departments
@@ -104,7 +104,7 @@ Table with how many positions need to be filled by 38 departments for planning.
 
 Another query that could help us understand mentorship program opportunities could be this information below. 
 As we work with each department head to understand if there are enough **qualified retirement ready employees in the departments** 
-to mentor the next generation of Pewlett Hackard employees.  This table is a great place to start to find mentorees for the program.     
+to mentor the next generation of Pewlett-Hackard employees.  This table is a great place to start to find mentorees for the program.     
 This list includes: 
    -  Senior level employees with titles like Manager, Senior Staff, Technique Leader, or Senior Engineer.
    -  Summarized by department then title with a count. 
